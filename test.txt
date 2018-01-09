@@ -4,3 +4,4 @@ Trek
 Bianchi
 Colnago
 Giant
+Cervelo
